@@ -1,14 +1,48 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="a35adc8c-218c-4324-94e6-c32c7addd9bb" name="Changes" comment="" />
+    <list default="true" id="a35adc8c-218c-4324-94e6-c32c7addd9bb" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/dmytrenko/lab3/controller/MainCreator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/dmytrenko/lab3/controller/Organizations/DepartmentCreator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/dmytrenko/lab3/controller/Organizations/FacultyCreator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/dmytrenko/lab3/controller/Organizations/GroupCreator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/dmytrenko/lab3/controller/Organizations/UniversityCreator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/dmytrenko/lab3/controller/People/HumanCreator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/dmytrenko/lab3/controller/People/StudentCreator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/dmytrenko/lab3/model/Organizations/Department.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/dmytrenko/lab3/model/Organizations/Faculty.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/dmytrenko/lab3/model/Organizations/FirstInfoForOrganization.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/dmytrenko/lab3/model/Organizations/Group.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/dmytrenko/lab3/model/Organizations/University.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/dmytrenko/lab3/model/People/Human.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/dmytrenko/lab3/model/People/Sex.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/dmytrenko/lab3/model/People/Student.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Enum" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="2NgiZf4Z517S82CwpTITbJVGdWG" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -17,9 +51,35 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false"
+    "WebServerToolWindowFactoryState": "false",
+    "git-widget-placeholder": "lab3",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "settings.editor.selected.configurable": "editor.preferences.tabs"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="org.dmytrenko.lab3.model" />
+      <recent name="org.dmytrenko.lab3.model.Organizations" />
+      <recent name="org.dmytrenko.lab3.model.People" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="JetRunConfigurationType">
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <option name="filePath" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
